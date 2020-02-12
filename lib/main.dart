@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
                 800: Color(0xffe53325),
                 900: Color(0xffe53325),
               }),
-              buttonColor: Colors.white,
+              cardColor: Colors.white,
               textSelectionColor: Colors.black,
               fontFamily: 'Lato',
               backgroundColor: Color(0xffF0F0F7),
